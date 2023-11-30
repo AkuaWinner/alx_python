@@ -12,6 +12,7 @@
     #print("is negative")
 
 
+numbers = [-4, 0, -3, -10, 10, -5, 6, 7, 5]
 
 for number in numbers:
     print(number, end=" ")
