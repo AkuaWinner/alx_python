@@ -2,8 +2,8 @@
 
 # Print numbers from 0 to 99 with two digits
 for i in range(100):
-    print(f"{i:02d}", end=", ")    # Print each number with two digits and separated by comma and space
-print()  
+    print("{:02d}".format(i), end=", ")
+print()
 print("/n")
 
 
