@@ -1,1 +1,2 @@
-print("Programming is like building a multilingual puzzle,\n")
+line = "\"Programming is like building a multilingual puzzle"
+print(line +"\n")
